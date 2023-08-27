@@ -1,4 +1,5 @@
 streamlit==1.24.0
 streamlit-elements==0.1.*
 tiktoken
-langchain
+openai==0.27.8
+langchain==0.0.225
